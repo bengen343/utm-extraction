@@ -1,1 +1,1 @@
-Notebook to assist in quickly extracting UTM parameters from URLs, store them in independency columns, and classify them according to my preferred channel groupings.
+Notebook to assist in quickly extracting UTM parameters from URLs, store them in independent columns, and classify them according to my preferred channel groupings.
